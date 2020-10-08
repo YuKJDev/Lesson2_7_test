@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name=".mainDB" uuid="ba2db35d-02f9-46ea-a825-5a93dbe60cd8">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/ru.geekbrains.yukjdev/ServerModule/src/serverdir/dbresurce/.mainDB</jdbc-url>
+    </data-source>
+  </component>
+</project>
